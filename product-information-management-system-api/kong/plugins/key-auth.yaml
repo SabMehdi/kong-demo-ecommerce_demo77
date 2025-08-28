@@ -1,0 +1,5 @@
+name: key-auth
+service: ' product-information-management-system-api'
+config:
+  key_names:
+  - apikey
